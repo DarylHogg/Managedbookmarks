@@ -15,7 +15,7 @@
     { "name": "Phone", "url": "https://pbx.goodphone.com/portal/home" },
     { "name": "Ramp", "url": "https://app.ramp.com/home" },
     { "name": "Safety Trekr AI™", "url": "https://safetytrekr.assp.org/" },
-    { "name": "Sage Intacct", "url": "https://launcher.myapps.microsoft.com/api/signin/1c1731ed-a40e-478d-9be0-d03956788f21?tenantId=9c5e9dee-4575-4680-8d17-422e9d07838c%22" },
+    { "name": "Sage Intacct", "url": "https://launcher.myapps.microsoft.com/api/signin/1c1731ed-a40e-478d-9be0-d03956788f21" },
     { "name": "Sage Intacct Planning", "url": "https://app.intacct-planning.com/budget/68e432a08b4348574720ff07?gridBudgetOption=bud" }
   ]
 }
