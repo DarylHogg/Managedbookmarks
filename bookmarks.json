@@ -1,16 +1,21 @@
 {
   "bookmarks": [
-    {
-      "name": "ASSP Website",
-      "url": "https://www.assp.org"
-    },
-    {
-      "name": "MyASSP",
-      "url": "https://my.assp.org"
-    },
-    {
-      "name": "Safety Standards",
-      "url": "https://safety.assp.org"
-    }
+    { "name": "ASSP Website", "url": "https://www.assp.org/" },
+    { "name": "ASSP World", "url": "https://intranet.assp.org/" },
+    { "name": "Barracuda Email Gateway Defense", "url": "https://us.ess.barracudanetworks.com/webui/message-log" },
+    { "name": "Elate", "url": "https://app.goelate.com/home" },
+    { "name": "FreshDesk - Helpdesk", "url": "https://assp.freshdesk.com/a/dashboard/default" },
+    { "name": "Monday.com - Project Management", "url": "https://assp.monday.com/" },
+    { "name": "Nimble AMS", "url": "https://assp-org.lightning.force.com" },
+    { "name": "Nimble AMS Staging", "url": "https://assp-org--staging.sandbox.my.salesforce.com/" },
+    { "name": "Outlook-Web", "url": "https://outlook.office.com/" },
+    { "name": "PasswordState", "url": "https://passwordstate.assp.org/" },
+    { "name": "Password Reset", "url": "https://mysignins.microsoft.com/security-info" },
+    { "name": "Paycor", "url": "https://hcm.paycor.com/Portal/" },
+    { "name": "Phone", "url": "https://pbx.goodphone.com/portal/home" },
+    { "name": "Ramp", "url": "https://app.ramp.com/home" },
+    { "name": "Safety Trekr AI™", "url": "https://safetytrekr.assp.org/" },
+    { "name": "Sage Intacct", "url": "https://launcher.myapps.microsoft.com/api/signin/1c1731ed-a40e-478d-9be0-d03956788f21?tenantId=9c5e9dee-4575-4680-8d17-422e9d07838c%22 },
+    { "name": "Sage Intacct Planning", "url": "https://app.intacct-planning.com/budget/68e432a08b4348574720ff07?gridBudgetOption=bud" }
   ]
 }
